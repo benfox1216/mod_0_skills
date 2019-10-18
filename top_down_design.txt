@@ -1,0 +1,26 @@
+How To Become A Turing Student
+
+1 Apply online
+  1.1 Complete questionnaire
+  1.2 Submit resume/work history
+  1.3 Complete logic quiz
+2 Interview
+  2.1 Complete "Pairing Exercise" (in-person logic test)
+  2.2 Complete "Community Fit" (in-person conversation)
+  2.3 Select your cohort/mod 0 class
+3 Secure funding
+  3.1 Determine source of financing
+    3.1.1 Review loan/scholarship/grant options
+    3.1.2 Determine best estimate for living expenses
+    3.1.3 Apply for chosen funding source
+    3.1.4 Ensure receipt of funds to school/yourself
+4 Pass Mod 0
+  4.1 Attend 6 online Mod 0 classes
+    4.1.1 Complete homework for each class
+    4.1.2 Take Mod 0 Assessment
+      4.1.2.1 Ensure you receive a score of "Technical Ready"
+5 Pass Capstone
+  5.1 Complete "Professional Development Assignment"
+  5.2 Complete "Gear Up Assignment"
+  5.3 Complete "Technical Capstone"
+    5.3.1 Ensure you receive a score of "Turing Ready"
