@@ -1,0 +1,13 @@
+Class: Menu
+
+Attributes:
+appetizers (array)
+drinks (array)
+name_of_restaurant (string)
+color (string)
+
+Methods:
+add_appetizer (adds an item to the appetizers array)
+add_drink (adds a drink to the drinks array)
+change_restaurant_name (changes the name_of_restaurant string)
+change_color (changes the color string)
