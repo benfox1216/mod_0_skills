@@ -1,0 +1,13 @@
+Class: employees
+
+Attributes:
+number_of_employees (integer)
+employee_names (array)
+employee_shirt_color (string)
+employee_shoe_type (string)
+
+Methods:
+hire_employee (adds 1 to the number_of_employees integer)
+add_employee_name (adds a name to the employee_names array)
+change_shirt_color (changes the employee_shirt_color string)
+change_shoe_type (changes the employee_shoe_type string)
