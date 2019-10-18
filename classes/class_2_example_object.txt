@@ -1,0 +1,13 @@
+Class employees Instance: Servers
+
+Attributes:
+number_of_employees: 4
+employee_names: ("Steve", "Amanda", "Riley", "Aaron")
+employee_shirt_color: ("Black")
+employee_shoe_type: ("Dress Shoes")
+
+Methods:
+hire_employee: 5
+add_employee_name: ("Steve", "Amanda", "Riley", "Aaron", "Stephanie")
+change_shirt_color ("Green")
+change_shoe_type ("Non-Slip Shoes")
