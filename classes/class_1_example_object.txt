@@ -1,0 +1,13 @@
+Class Menu Instance: Fall Menu
+
+Attributes:
+appetizers: ("Jalapeno Poppers", "Creamed Corn", "Cheese Sticks")
+drinks: ("Coke", "Diet Coke", "Sprite", "Root Beer")
+name_of_restaurant: ("The Fun Zone")
+color: ("Blue")
+
+Methods:
+add_appetizer: ("Jalapeno Poppers", "Creamed Corn", "Cheese Sticks", "Caesar Salad")
+add_drink: ("Coke", "Diet Coke", "Sprite", "Root Beer", "Sparkling Water")
+change_restaurant_name: ("Dine With Friends")
+change_color: ("White")
